@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nino Dafonte. I've been developing software, one way or another, for the last 20+ years. You'll find here experiments and templates, usually about #automation, #aws, #php, #docker, #terraform, #python and some other animals.
+My name is Nino Dafonte. I've been developing software, one way or another, for the past 20+ years. You'll find here experiments and templates, usually about #automation, #aws, #php, #docker, #terraform, #python and some other animals.
 
 Enjoy and happy coding! 
 
